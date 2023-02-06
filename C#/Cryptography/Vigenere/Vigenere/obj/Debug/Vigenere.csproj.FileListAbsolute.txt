@@ -1,0 +1,10 @@
+E:\Eduard\ProjectVS\Xudaverdyan\Vigenere\Vigenere\bin\Debug\Vigenere.exe.config
+E:\Eduard\ProjectVS\Xudaverdyan\Vigenere\Vigenere\bin\Debug\Vigenere.exe
+E:\Eduard\ProjectVS\Xudaverdyan\Vigenere\Vigenere\bin\Debug\Vigenere.pdb
+E:\Eduard\ProjectVS\Xudaverdyan\Vigenere\Vigenere\obj\Debug\Vigenere.csprojAssemblyReference.cache
+E:\Eduard\ProjectVS\Xudaverdyan\Vigenere\Vigenere\obj\Debug\Vigenere.Form1.resources
+E:\Eduard\ProjectVS\Xudaverdyan\Vigenere\Vigenere\obj\Debug\Vigenere.Properties.Resources.resources
+E:\Eduard\ProjectVS\Xudaverdyan\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.GenerateResource.cache
+E:\Eduard\ProjectVS\Xudaverdyan\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+E:\Eduard\ProjectVS\Xudaverdyan\Vigenere\Vigenere\obj\Debug\Vigenere.exe
+E:\Eduard\ProjectVS\Xudaverdyan\Vigenere\Vigenere\obj\Debug\Vigenere.pdb
