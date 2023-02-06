@@ -1,0 +1,10 @@
+E:\Eduard\ProjectVS\Xudaverdyan\Playfair\Playfair\obj\Debug\Playfair.csprojAssemblyReference.cache
+E:\Eduard\ProjectVS\Xudaverdyan\Playfair\Playfair\obj\Debug\Playfair.Form1.resources
+E:\Eduard\ProjectVS\Xudaverdyan\Playfair\Playfair\obj\Debug\Playfair.Properties.Resources.resources
+E:\Eduard\ProjectVS\Xudaverdyan\Playfair\Playfair\obj\Debug\Playfair.csproj.GenerateResource.cache
+E:\Eduard\ProjectVS\Xudaverdyan\Playfair\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+E:\Eduard\ProjectVS\Xudaverdyan\Playfair\Playfair\bin\Debug\Playfair.exe.config
+E:\Eduard\ProjectVS\Xudaverdyan\Playfair\Playfair\bin\Debug\Playfair.exe
+E:\Eduard\ProjectVS\Xudaverdyan\Playfair\Playfair\bin\Debug\Playfair.pdb
+E:\Eduard\ProjectVS\Xudaverdyan\Playfair\Playfair\obj\Debug\Playfair.exe
+E:\Eduard\ProjectVS\Xudaverdyan\Playfair\Playfair\obj\Debug\Playfair.pdb
