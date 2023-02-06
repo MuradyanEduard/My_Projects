@@ -1,0 +1,9 @@
+C:\Users\AnonYmous\Desktop\DifiHelman\bin\Debug\DifiHelman.exe.config
+C:\Users\AnonYmous\Desktop\DifiHelman\bin\Debug\DifiHelman.exe
+C:\Users\AnonYmous\Desktop\DifiHelman\bin\Debug\DifiHelman.pdb
+C:\Users\AnonYmous\Desktop\DifiHelman\obj\Debug\DifiHelman.csprojResolveAssemblyReference.cache
+C:\Users\AnonYmous\Desktop\DifiHelman\obj\Debug\DifiHelman.Form1.resources
+C:\Users\AnonYmous\Desktop\DifiHelman\obj\Debug\DifiHelman.Properties.Resources.resources
+C:\Users\AnonYmous\Desktop\DifiHelman\obj\Debug\DifiHelman.csproj.GenerateResource.Cache
+C:\Users\AnonYmous\Desktop\DifiHelman\obj\Debug\DifiHelman.exe
+C:\Users\AnonYmous\Desktop\DifiHelman\obj\Debug\DifiHelman.pdb
