@@ -1,0 +1,84 @@
+.errors{
+    margin-top: 80px;
+    height: 50px;
+    color: red;
+}
+
+textarea{
+    resize: none;
+    height: 131px;
+}
+
+.container_content_item{
+    border: 1px solid;
+    margin-top: 15px;
+    padding: 15px;
+}
+
+.order_menu_content_products{
+    height: 500px;
+    overflow-y: auto;
+
+}
+
+.order_menu{
+    height: 700px;
+    background-color: gray;
+    padding: 25px;
+}
+
+.order_menu *{
+
+    margin-right: 5px;
+}
+
+.container_header{
+    padding: 0px;
+}
+
+.dltButton{
+    float: right;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.frmClass{
+    margin: 20px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #888;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #f1f1f1;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #B8B8B8;
+}
+
+@media  only screen and (max-width: 990px) {
+    .order_menu{
+        margin-top: 20px;
+    }
+}
+
+@media  only screen and (max-width: 766px) {
+    .order_add_block input[type=submit]{
+        margin-top: 15px;
+    }
+}
+
