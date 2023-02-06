@@ -1,0 +1,13 @@
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\bin\Debug\Resources\AboutApplication_EN.pdf
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\bin\Debug\Stegonagraph.exe.config
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\bin\Debug\Stegonagraph.exe
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\bin\Debug\Stegonagraph.pdb
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\obj\Debug\Steganography.csprojAssemblyReference.cache
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\obj\Debug\Stegonagraph.KeyForm.resources
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\obj\Debug\Stegonagraph.MainForm.resources
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\obj\Debug\Stegonagraph.Properties.Resources.resources
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\obj\Debug\Stegonagraph.StegPanel.resources
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\obj\Debug\Steganography.csproj.GenerateResource.cache
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\obj\Debug\Stegonagraph.exe
+C:\Users\murad\Downloads\Diplom\Դիպլոմային Աշխատանք\Stegonagraph\Stegonagraph\obj\Debug\Stegonagraph.pdb
