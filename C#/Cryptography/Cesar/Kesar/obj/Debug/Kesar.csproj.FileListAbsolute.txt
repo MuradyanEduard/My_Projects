@@ -1,0 +1,10 @@
+E:\Eduard\ProjectVS\Xudaverdyan\Kesar\Kesar\bin\Debug\Kesar.exe.config
+E:\Eduard\ProjectVS\Xudaverdyan\Kesar\Kesar\bin\Debug\Kesar.exe
+E:\Eduard\ProjectVS\Xudaverdyan\Kesar\Kesar\bin\Debug\Kesar.pdb
+E:\Eduard\ProjectVS\Xudaverdyan\Kesar\Kesar\obj\Debug\Kesar.csprojAssemblyReference.cache
+E:\Eduard\ProjectVS\Xudaverdyan\Kesar\Kesar\obj\Debug\Kesar.Form1.resources
+E:\Eduard\ProjectVS\Xudaverdyan\Kesar\Kesar\obj\Debug\Kesar.Properties.Resources.resources
+E:\Eduard\ProjectVS\Xudaverdyan\Kesar\Kesar\obj\Debug\Kesar.csproj.GenerateResource.cache
+E:\Eduard\ProjectVS\Xudaverdyan\Kesar\Kesar\obj\Debug\Kesar.csproj.CoreCompileInputs.cache
+E:\Eduard\ProjectVS\Xudaverdyan\Kesar\Kesar\obj\Debug\Kesar.exe
+E:\Eduard\ProjectVS\Xudaverdyan\Kesar\Kesar\obj\Debug\Kesar.pdb
