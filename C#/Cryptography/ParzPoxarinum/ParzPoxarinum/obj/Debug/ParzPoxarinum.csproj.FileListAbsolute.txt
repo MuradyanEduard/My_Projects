@@ -1,0 +1,10 @@
+E:\Eduard\ProjectVS\Xudaverdyan\ParzPoxarinum\ParzPoxarinum\bin\Debug\ParzPoxarinum.exe.config
+E:\Eduard\ProjectVS\Xudaverdyan\ParzPoxarinum\ParzPoxarinum\bin\Debug\ParzPoxarinum.exe
+E:\Eduard\ProjectVS\Xudaverdyan\ParzPoxarinum\ParzPoxarinum\bin\Debug\ParzPoxarinum.pdb
+E:\Eduard\ProjectVS\Xudaverdyan\ParzPoxarinum\ParzPoxarinum\obj\Debug\ParzPoxarinum.csprojAssemblyReference.cache
+E:\Eduard\ProjectVS\Xudaverdyan\ParzPoxarinum\ParzPoxarinum\obj\Debug\ParzPoxarinum.Form1.resources
+E:\Eduard\ProjectVS\Xudaverdyan\ParzPoxarinum\ParzPoxarinum\obj\Debug\ParzPoxarinum.Properties.Resources.resources
+E:\Eduard\ProjectVS\Xudaverdyan\ParzPoxarinum\ParzPoxarinum\obj\Debug\ParzPoxarinum.csproj.GenerateResource.cache
+E:\Eduard\ProjectVS\Xudaverdyan\ParzPoxarinum\ParzPoxarinum\obj\Debug\ParzPoxarinum.csproj.CoreCompileInputs.cache
+E:\Eduard\ProjectVS\Xudaverdyan\ParzPoxarinum\ParzPoxarinum\obj\Debug\ParzPoxarinum.exe
+E:\Eduard\ProjectVS\Xudaverdyan\ParzPoxarinum\ParzPoxarinum\obj\Debug\ParzPoxarinum.pdb
