@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bgColor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <ScrollView
+        android:id="@+id/mainPanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <LinearLayout
+                android:id="@+id/lnpanel1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@color/colorPrimary"
+                android:paddingBottom="20dp"
+                android:padding="20dp">
+
+                <TextView
+                    android:id="@+id/scTextView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorRed"
+                    android:text="Set Color"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/txtView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorRed"
+                    android:text="0"
+                    android:textAlignment="center"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center_horizontal"
+                    android:textSize="20dp" />
+                <SeekBar
+                    android:id="@+id/sBRed"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/SeekBarRed"
+                    android:max="255"
+                    android:progress="0" />
+                <TextView
+                    android:id="@+id/txtView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:textColor="@color/colorGreen"
+                    android:textAlignment="center"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center_horizontal"
+                    android:textSize="20dp" />
+                <SeekBar
+                    android:id="@+id/sBGreen"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/SeekBarGreen"
+                    android:max="255"
+                    android:progress="0" />
+                <TextView
+                    android:id="@+id/txtView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:textColor="@color/colorBlue"
+                    android:textAlignment="center"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center_horizontal"
+                    android:textSize="20dp" />
+                <SeekBar
+                    android:id="@+id/sBBlue"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/SeekBarBlue"
+                    android:max="255"
+                    android:progress="0" />
+
+
+                <TextView
+                    android:id="@+id/scTextView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorRed"
+                    android:text="Set Style"
+                    android:textSize="20dp"
+                    android:layout_marginTop="20dp"/>
+
+
+                <RadioGroup
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/groupradio"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/radia_id1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:textSize="10dp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/purple"></ImageView>
+
+                    <RadioButton
+                        android:id="@+id/radia_id2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="10dp"/>
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/spurple"></ImageView>
+
+                </RadioGroup>
+
+                <TextView
+                    android:id="@+id/scTextView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorRed"
+                    android:text="Set Animation Speed"
+                    android:textSize="20dp"
+                    android:layout_marginTop="20dp"/>
+
+
+                <RadioGroup
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/radiospeed"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <RadioButton
+                        android:id="@+id/rd1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="slow"
+                        android:layout_marginTop="5dp"
+                        android:textSize="20dp" />
+
+                    <RadioButton
+                        android:id="@+id/rd2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="medium"
+                        android:layout_marginTop="5dp"
+                        android:textSize="20dp" />
+                    <RadioButton
+                        android:id="@+id/rd3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="fast"
+                        android:layout_marginTop="5dp"
+                        android:textSize="20dp" />
+
+                </RadioGroup>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="20dp">
+
+                <Button
+                    android:id="@+id/btnSave"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:layout_weight="1"
+                    android:text="Save"/>
+
+                <Button
+                    android:id="@+id/btnGetBack"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:layout_weight="1"
+                    android:text="Go Back"/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

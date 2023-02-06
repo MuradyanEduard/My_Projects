@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HowToPlay">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        tools:layout_editor_absoluteX="-27dp"
+        tools:layout_editor_absoluteY="264dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How to play!"
+                android:textStyle="bold|italic"
+                android:layout_marginBottom="20dp"
+                android:textSize="20dp"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  When Color Lines game starts, you are presented with the game board that has 81 (9×9) squares (cells)."
+                android:layout_marginBottom="20dp"
+                android:textSize="20dp"></TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/dasht1"
+                android:adjustViewBounds="true"
+                android:layout_marginBottom="20dp"></ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  Move the balls from cell to cell to group them into the lines of the same color."
+                android:layout_marginBottom="20dp"
+                android:textSize="20dp"></TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/dasht2"
+                android:adjustViewBounds="true"
+                android:layout_marginBottom="20dp"></ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  However, after each of your moves the computer drops three more balls onto the board. To avoid filling up the board you should gather the balls into lines of 5 or more balls. When such a line is complete, the balls are removed from the field and your score grows."
+                android:textSize="20dp"
+                android:layout_marginBottom="20dp"></TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/dasht3"></ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  At the top in the left corner is shown which three balls will come after the end of the course."
+                android:textSize="20dp"
+                android:layout_marginBottom="20dp"></TextView>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal"
+                android:layout_marginBottom="20dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/purple"
+                    android:adjustViewBounds="true"
+                    ></ImageView>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/red"
+                    android:adjustViewBounds="true"
+                    ></ImageView>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/green"
+                    android:adjustViewBounds="true"
+                    ></ImageView>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  The new balls will not be added to the field after a line removal. Instead you will be rewarded with yet another move before a new triplet of balls is added."
+                android:textSize="20dp"
+                android:layout_marginBottom="20dp"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  The scoring system is quite simple – each removed ball gives you one points, but there is an extra bonus available. The goal of the “Color Lines” game is to stay in game as long as possible. The game ends once the whole game board becomes filled up with balls."
+                android:textSize="20dp"
+                android:layout_marginBottom="20dp"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  To look best scores need to click on best score button."
+                android:textSize="20dp"
+                android:layout_marginBottom="20dp"></TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/bscore1"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:layout_marginBottom="20dp"></ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  The ball can only move horizontally and vertically if current square is not occupied by another ball. When the ball does not have a path to a new square, then the face will become sad."
+                android:textSize="20dp"
+                android:layout_marginBottom="20dp"></TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/gkalabok"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:layout_marginBottom="20dp"></ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  To start the game from the beginning you need to click on the red button."
+                android:textSize="20dp"
+                android:layout_marginBottom="20dp"></TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/csknopka"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:layout_marginBottom="20dp"></ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  To save a current position you need to click the save button and for load saved position you need to click the load button."
+                android:textSize="20dp"
+                android:layout_marginBottom="20dp"></TextView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal"
+                android:layout_marginBottom="20dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/save"
+                    android:layout_weight="1"
+                    android:adjustViewBounds="true"
+                    android:layout_margin="20dp"></ImageView>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/load"
+                    android:layout_weight="1"
+                    android:adjustViewBounds="true"
+                    android:layout_margin="20dp"></ImageView>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  To return the main page, press the home button."
+                android:textSize="20dp"
+                android:layout_marginBottom="20dp"></TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/home"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:layout_marginBottom="20dp"></ImageView>
+
+            <Button
+                android:id="@+id/GoBack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="Go Back"></Button>
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>
