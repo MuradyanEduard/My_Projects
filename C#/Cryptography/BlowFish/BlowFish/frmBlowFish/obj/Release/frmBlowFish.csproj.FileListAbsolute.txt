@@ -1,0 +1,10 @@
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\frmBlowFish\bin\Release\frmBlowFish.exe.config
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\frmBlowFish\bin\Release\frmBlowFish.exe
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\frmBlowFish\bin\Release\frmBlowFish.pdb
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\frmBlowFish\obj\Release\frmBlowFish.csprojAssemblyReference.cache
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\frmBlowFish\obj\Release\frmBlowFish.Form1.resources
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\frmBlowFish\obj\Release\frmBlowFish.Properties.Resources.resources
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\frmBlowFish\obj\Release\frmBlowFish.csproj.GenerateResource.cache
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\frmBlowFish\obj\Release\frmBlowFish.csproj.CoreCompileInputs.cache
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\frmBlowFish\obj\Release\frmBlowFish.exe
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\frmBlowFish\obj\Release\frmBlowFish.pdb

@@ -1,0 +1,11 @@
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\bin\Release\netcoreapp2.2\BlowFish.deps.json
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\bin\Release\netcoreapp2.2\BlowFish.runtimeconfig.json
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\bin\Release\netcoreapp2.2\BlowFish.runtimeconfig.dev.json
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\bin\Release\netcoreapp2.2\BlowFish.dll
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\bin\Release\netcoreapp2.2\BlowFish.pdb
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\obj\Release\netcoreapp2.2\BlowFish.csprojAssemblyReference.cache
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\obj\Release\netcoreapp2.2\BlowFish.csproj.CoreCompileInputs.cache
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\obj\Release\netcoreapp2.2\BlowFish.AssemblyInfoInputs.cache
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\obj\Release\netcoreapp2.2\BlowFish.AssemblyInfo.cs
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\obj\Release\netcoreapp2.2\BlowFish.dll
+D:\Eduard\Programs\ProjectVS\Xudaverdyan\BlowFish\BlowFish\obj\Release\netcoreapp2.2\BlowFish.pdb

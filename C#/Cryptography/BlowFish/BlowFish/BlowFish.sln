@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlowFish", "BlowFish\BlowFish.csproj", "{B459C5FC-853D-4000-BACA-B1BFF63FDCAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmBlowFish", "frmBlowFish\frmBlowFish.csproj", "{8B6F838F-073B-49EC-8907-B13CC769793E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B459C5FC-853D-4000-BACA-B1BFF63FDCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B459C5FC-853D-4000-BACA-B1BFF63FDCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B459C5FC-853D-4000-BACA-B1BFF63FDCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B459C5FC-853D-4000-BACA-B1BFF63FDCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6F838F-073B-49EC-8907-B13CC769793E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6F838F-073B-49EC-8907-B13CC769793E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6F838F-073B-49EC-8907-B13CC769793E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6F838F-073B-49EC-8907-B13CC769793E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44CCA1E5-FD73-40FA-BC49-90F1FB76E56E}
+	EndGlobalSection
+EndGlobal
