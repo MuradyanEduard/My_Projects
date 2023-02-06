@@ -1,0 +1,20 @@
+//event hendler
+SET GLOBAL event_scheduler="ON"
+
+CREATE EVENT myevent
+    ON SCHEDULE AT CURRENT_TIMESTAMP + INTERVAL 1 MINUTE
+    DO
+      UPDATE `election`  SET Active = 0 WHERE election.IdElection = 2
+
+//2column unique
+ALTER TABLE [dbo].[TABLE] ADD CONSTRAINT
+UNIQUE_Table UNIQUE CLUSTERED
+(
+col1,
+col2
+)
+
+//twice inner join
+SELECT election.ElName,election.ElType,election.DeadTime,election.ElDescription,election.ElVariants,votelist.VotedVariant,user.NickName FROM election
+INNER JOIN votelist ON election.IdElection = votelist.IdElection 
+inner join user ON votelist.IdUser = user.IdUser where election.IdElection = 20

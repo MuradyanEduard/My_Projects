@@ -1,0 +1,70 @@
+input[type=text], input[type=password] {
+    width: 70%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    font-size: large;
+    border: 1px solid black;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+    font-size: large;
+  }
+  
+  input[type=submit]{
+    width: 50%;
+    margin: auto;
+    position: absolute;
+    left:0;
+    right: 0;
+    font-size: large;
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+
+  form{
+    font-size: large;
+    height: 50%;
+    margin: auto;
+    position: absolute;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+
+  #inner {
+    display: block;
+    width: 400px;
+    height: 400px;
+
+    overflow: auto;
+    
+    /*border: 1px solid black;*/
+
+    margin: auto;
+    position: absolute;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+  
+  #outer {
+      
+      position: absolute;
+      margin: auto;
+      display: block;
+    border: 1px solid black;
+    width: 600px;
+    height: 600px;
+
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
